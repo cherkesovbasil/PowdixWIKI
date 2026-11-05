@@ -1,7 +1,7 @@
 {
-  "version": "1.0.3",
+  "version": "1.0.4",
   "release_date": "2026-11-05",
-  "changelog": "Тестовая версия сборки",
-  "download_url": "https://github.com/cherkesovbasil/PowdixWIKI/releases/download/v1.0.3/PowdixWIKI_1.0.3.zip",
-  "checksum_sha256": "27120b730286ce8729d0c2e8b5be230daa8ce712e2920c9d965e0ed97d30f8c2"
+  "changelog": "тестовая версия 2",
+  "download_url": "https://github.com/cherkesovbasil/PowdixWIKI/releases/download/v1.0.4/PowdixWIKI_1.0.4.zip",
+  "checksum_sha256": "ecae05ebd31eacef8641c6d7e9d95811d8dc873da61a7d6140a6c84f63dd28d8"
 }
