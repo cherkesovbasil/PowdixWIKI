@@ -1,0 +1,21 @@
+# Игнорировать всё
+/*
+!/updates/
+!/updates/**
+!/.gitignore
+
+# Явно — служебные
+.private_key
+*.key
+output/
+build/
+dist/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.idea/
+paths.json
+update_settings.json
+*.log
+PowdixWIKI_*.zip
