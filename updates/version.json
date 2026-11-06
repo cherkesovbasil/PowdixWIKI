@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
   "release_date": "2026-11-06",
-  "changelog": "Альфа-версия POWDIX WIIKI для первичного ознакомления с программным обеспечением и внутренних тестов",
+  "changelog": "Внутренняя версия программного обеспечения для тестирования функционала",
   "download_url": "https://github.com/cherkesovbasil/PowdixWIKI/releases/download/v1.0.0/PowdixWIKI_1.0.0.zip",
-  "checksum_sha256": "dbd66ac25945ccffa0dac6ca23b5ede949c500b3d4f1da108eb0dec25c031f11"
+  "checksum_sha256": "4b35a3d89c366cf69be8b65b1b031669a47b50e777a21c82babb025d845d883a"
 }
