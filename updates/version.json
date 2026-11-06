@@ -1,7 +1,7 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "release_date": "2026-11-06",
-  "changelog": "Внутренняя версия программного обеспечения для тестирования функционала",
-  "download_url": "https://github.com/cherkesovbasil/PowdixWIKI/releases/download/v1.0.0/PowdixWIKI_1.0.0.zip",
-  "checksum_sha256": "4b35a3d89c366cf69be8b65b1b031669a47b50e777a21c82babb025d845d883a"
+  "changelog": "Тестовая сборка для проверки функционала обновлений",
+  "download_url": "https://github.com/cherkesovbasil/PowdixWIKI/releases/download/v1.0.1/PowdixWIKI_1.0.1.zip",
+  "checksum_sha256": "80a0f53071b38bd924cdf8509a3963dede88f6275c426c0bf28e88cfffb9ff81"
 }
