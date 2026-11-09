@@ -1,7 +1,7 @@
 {
-  "version": "1.0.4",
-  "release_date": "2026-11-06",
-  "changelog": "Тестовая сборка для проверки функционала загрузки",
-  "download_url": "https://github.com/cherkesovbasil/PowdixWIKI/releases/download/v1.0.4/PowdixWIKI_1.0.4.zip",
-  "checksum_sha256": "968934db1f98eaf566a5f9dcd8b21ae7d4a68d708797e69dae44ce1daab59181"
+  "version": "1.0.5",
+  "release_date": "2026-11-09",
+  "changelog": "Базовая версия PowdixWIKI.\nОтсутствуют:\n- Пробоподготовка\n- Методики измерений",
+  "download_url": "https://github.com/cherkesovbasil/PowdixWIKI/releases/download/v1.0.5/PowdixWIKI_1.0.5.zip",
+  "checksum_sha256": "426581f2052071465479adad1d586ebdd897a883c5e192b72157f35f95ccce41"
 }
