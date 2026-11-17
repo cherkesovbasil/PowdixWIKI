@@ -1,7 +1,7 @@
 {
-  "version": "1.0.5",
-  "release_date": "2026-11-09",
-  "changelog": "Базовая версия PowdixWIKI.\nОтсутствуют:\n- Пробоподготовка\n- Методики измерений",
-  "download_url": "https://github.com/cherkesovbasil/PowdixWIKI/releases/download/v1.0.5/PowdixWIKI_1.0.5.zip",
-  "checksum_sha256": "426581f2052071465479adad1d586ebdd897a883c5e192b72157f35f95ccce41"
+  "version": "1.0.6",
+  "release_date": "2026-11-17",
+  "changelog": "Релиз 1.0.6 для внутренних тестов.\n\nЧто нового:\n• добавлена функция управления всеми окнами кроме утилит клавишами ←, →, ↑, ↓;\n• клавиши \"Esc\" и \"Backspace\" возвращают на предыдущее окно либо если предыдущего нет, завершают работу приложения;\n• дополнен раздел \"Пробоподготовка\";\n• адаптирована загрузка картинок большого веса и текста большого объёма для быстрого отображения во всех окнах.",
+  "download_url": "https://github.com/cherkesovbasil/PowdixWIKI/releases/download/v1.0.6/PowdixWIKI_1.0.6.zip",
+  "checksum_sha256": "56b133638ea13b561ccc7534956ee7744ddd248a7cc8d024393e1fdc665a2be7"
 }
