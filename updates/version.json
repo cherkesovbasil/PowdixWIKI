@@ -1,7 +1,7 @@
 {
-  "version": "1.0.7",
+  "version": "1.0.8",
   "release_date": "2026-11-27",
-  "changelog": "Что нового:\n• Обновлена версия Руководства на аналитическое ПО \"Almaz\"\n• Исправлено отображение гиперссылок и подписей рисунков\n• Добавлена подсветка при наведении на все активные элементы интерфейса\n• В утилиту \"Сшивка и обрезка дифрактограмм\" добавлена поддержка всех доступных на данный момент форматов из утилиты \"Конвертер XRD-форматов\"\n• Обновлён раздел \"Методики измерений\", добавлены методики для фармакопейный образцов",
-  "download_url": "https://github.com/cherkesovbasil/PowdixWIKI/releases/download/v1.0.7/PowdixWIKI_1.0.7.zip",
-  "checksum_sha256": "953e1ce66fd3d4a1edfca5b5c1441abd4d02fac15c487b13edf9b74cbde2dd35"
+  "changelog": "Что нового:\n• Обновлён пакет драйверов\n• Исправлены ошибки совместимости",
+  "download_url": "https://github.com/cherkesovbasil/PowdixWIKI/releases/download/v1.0.8/PowdixWIKI_1.0.8.zip",
+  "checksum_sha256": "a21f92ac06075e89ae0383950deec30177f40b3ef528e126275e675511f3356e"
 }
